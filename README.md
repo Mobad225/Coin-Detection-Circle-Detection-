@@ -1,0 +1,2 @@
+# Coin-Detection-Circle-Detection-
+In this Computer Vision assignment, I used filters to cartoonize any Image and familiarize with basic image processing, In the second part, Hough transform was used to identify coins as circles from images and plot them. Edges were detected first, and the using the detected edges and a pre-known radius, each edge point voted for the circles it might be contained in, with some thresholding and small optimizations for easier visual understanding, Each coin is recognized exactly.
